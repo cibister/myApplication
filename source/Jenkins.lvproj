@@ -43,7 +43,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Users/cibister/Documents/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{4C6F89AB-C6F3-4A80-B634-6FC914ADEA3A}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{DC2A5557-9A10-456E-A1FA-D68CC2732889}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Add.vi</Property>
